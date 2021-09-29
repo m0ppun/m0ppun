@@ -1,5 +1,7 @@
 m0ppun です。
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=m0ppun&hide=contribs,prs,issues,stars&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats)
+
 # 概要
 * 🎂：1991/09/15
 * ❤️：サウナ♨️、お酒🍺
